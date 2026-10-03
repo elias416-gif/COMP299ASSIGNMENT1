@@ -7,7 +7,7 @@ function AboutMe() {
        My name is Elias Khoury. I am a third year Game Programming student at Centennial College. I enjoy learning new things and getting better at them. I'm currently working on getting better at different coding languages like C# and javascript.
       </p>
 
-      <a href="/resume.pdf" target="_blank" rel="noreferrer">
+      <a href="/EliasResume.pdf" target="_blank" rel="noreferrer">
         View My Resume
       </a>
     </div>
